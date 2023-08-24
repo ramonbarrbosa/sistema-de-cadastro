@@ -7,3 +7,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 python app.py
 ```
+
+:)
